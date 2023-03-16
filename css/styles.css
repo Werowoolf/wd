@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+p{
+    font-size: 20px;
+}
+h1 {
+    
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-size: 25px;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-size: 25px;
+    
+}
+
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.middle-container{
+
+}Rule is :empty
+.skill-row{
+    width: 10%;
+}
+.foto {
+margin-top: 35px;}
+.img-code{
+    width:10%;
+}
+
+.chilles{
+    width: 10%
+    ;}
+
+.bottom-container{
+    
+    
+}
+
+.pro {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
