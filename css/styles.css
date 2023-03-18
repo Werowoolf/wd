@@ -9,19 +9,28 @@ p{
 }
 h1 {
     
-    margin: 0px;
+    color: #66BFBF;
+    margin:50px auto 0 auto;
     font-family: 'Sacramento', cursive;
-    font-size: 70px;
-    
+   font-size: 7.625rem;
+   
 }
 
 h2 {
-    font-family: 'Montserrat';
-    font-size: 25px;
+    
+    color: #66BFBF;
+    font-family: 'Montserrat'  sans-serif;
+    font-size: 2.5rem;
+   
 }
-
+.programm{
+    color: #66BFBF;
+    font-family: 'Montserrat'  sans-serif;
+    font-size: 1rem;
+}
 h3 {
-    font-family: 'Montserrat';
+    color: #11999E;
+    font-family: 'Montserrat' sans-serif;
     font-size: 25px;
     
 }
@@ -43,16 +52,34 @@ h3 {
 .foto {
 margin-top: 35px;}
 .img-code{
-    width:10%;
+    width: 25%;
+float: left;
+margin-right: 30px;
+
 }
 
-.chilles{
-    width: 10%
-    ;}
 
+.chilles{
+    width: 25%;
+    float: right;
+margin-left: 30px;
+    }
+.code-skill-description {
+       clear: left;
+    }
+.code-chilles-descripton{
+    clear: right;
+}
 .bottom-container{
+
+}
     
-    
+    .skill-row{
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+        
 }
 
 .pro {
